@@ -1,6 +1,6 @@
 # Hey Everyone
 
-My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a platform to learn a great deal about different technical domains, and an opportunity to interact with peers interested in the same. I am looking for an opportunity to hone my skills and support of skilled and helping mentors.
+Hello, my name is Mayank Agrawal, and I am now pursuing my bachelor's degree in engineering. I enjoy constructing things and bringing ideas to life. I'm curious and willing to learn about any new technology that seems intriguing. I work as a FrontEnd Developer because I believe it is the most effective approach to express yourself and allow others to appreciate and participate with your work of art.
 
 ## Github Profile Statistics
 
@@ -28,6 +28,7 @@ My name is Tanishq Vyas. I am a conscientious and enthusiastic student seeking a
 <details>
   <summary>Click to View</summary>
   <br>
-  ⚫ Gmail 				: Mayank1403@gmail.com <br>
-  <!-- ⚫ LinkedIn			: https://www.linkedin.com/in/tanishq-vyas-24457516a/ <br> -->
+  ⚫ Gmail 				: mayank1403@gmail.com <br>
+  ⚫ LinkedIn			: https://www.linkedin.com/in/mayank-a-299863b4/ <br>
+  ⚫ HackerRank			: https://www.hackerrank.com/mayank1403 <br>
 </details>
