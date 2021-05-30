@@ -5,7 +5,6 @@ Hello, my name is Mayank Agrawal, and I am now pursuing my bachelor's degree in 
 ## Github Profile Statistics
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank1403&hide=java,html&langs_count=3&theme=gruvbox" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank1403&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mayank's GitHub Stats" />
 
 ## Tools & Technologies
